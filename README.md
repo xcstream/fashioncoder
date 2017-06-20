@@ -1,5 +1,5 @@
 # fashioncoder 
-收集知乎上女装程序员的图
+## 程序员界流传着这么一句座右铭：三流码农写UI，二流码农写架构，一流码农写算法，顶级码农穿女装。
 
 ![](https://github.com/xcstream/fashioncoder/blob/master/v2-2ee049b166caf916a87cc46cfbb49df4_b.jpg?raw=true)
 ![](https://github.com/xcstream/fashioncoder/blob/master/v2-f029506f1618a7aa9640232334a60151_b.jpg?raw=true)
